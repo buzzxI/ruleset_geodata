@@ -258,7 +258,7 @@ jobs:
           tag: clash-ruleset
           overwrite: true
           # body: "Clash ruleset 规则集文件，包含 .yaml、.list 和 .mrs 格式"
-          body: "Clash ruleset 规则集文件，包含 .yaml 与 .list 格式
+          body: "Clash ruleset 规则集文件，包含 .yaml 与 .list 格式"
           file_glob: true
           file: ./clash-ruleset/*
 
